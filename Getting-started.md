@@ -33,7 +33,7 @@ npm install -g grunt-cli
 1. `npm install`로 프로젝트가 참조하는 모듈들을 설치한다.
 1. `grunt`를 실행한다.
 
-이게 전부다. 사용 가능한 task는 `gurnt --help` 컴멘드로 볼 수 있지만 보통 해당 프로젝트 문서를 참고한다.
+이게 전부다. 사용 가능한 task는 `grunt --help` 컴멘드로 볼 수 있지만 보통 해당 프로젝트 문서를 참고한다.
 
 ## Preparing a new Grunt project
 프로젝트를 새로 시작할 때는 보통 `package.json`과 `Grunfile`라는 파일이  먼저 있어야 한다.
